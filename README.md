@@ -1,4 +1,4 @@
-👋 I'm [Rémi Turquier](https://www.linkedin.com/in/remi-turquier/) <sup>(they, them)</sup>  
+👋 I'm [Rémi Turquier](https://remi.turquier.fr) <sup>(they, them)</sup>  
 📚 I'm currently doing a PhD at the [Paris School of Economics](http://parisschoolofeconomics.eu/) and Paris 1 University (CES).
 
 <!---
